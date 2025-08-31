@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jing Ren
 
 <!--
 **jren-maths/jren-maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on fixed-income models
-- 🌱 I’m currently learning stochastic calculus
+- 🔭 I’m currently working on `fixed-income models`
+- 🌱 I’m currently learning `stochastic calculus`
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 -->
-- 💬 Ask me about maths and statistics
+- 💬 Ask me about `maths and statistics`
 - ⚡ Fun fact: I'm a reborn quant
