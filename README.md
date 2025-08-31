@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 💬 Ask me about `maths and statistics`
-- ⚡ Fun fact: I'm a reborn quant
+- ⚡ Fun fact: I'm a reborn `quant`
