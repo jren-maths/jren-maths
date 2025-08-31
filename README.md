@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Jing Ren
-![Profile Photo](start.png)
 <!--
 **jren-maths/jren-maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about `maths and statistics`
 - ⚡ Fun fact: I'm a reborn `quant`
+
+![Profile Photo](start.png)
