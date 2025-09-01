@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 -->
-- 💬 Ask me about `maths and statistics`
+- 💬 Ask me about `mathematics and statistics`
 - ⚡ Fun fact: I'm a reborn `quant`
 
