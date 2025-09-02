@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jing Ren
-![Profile Photo](slava-auchynnikau-iGl6wmhQCuE-unsplash.jpg)
+![Profile Photo](start.png)
 <!--
 **jren-maths/jren-maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
