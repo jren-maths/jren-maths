@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jing Ren
+## Hi there 👋 I'm a quantitative researcher and a lover of mathematics
 <!--
 ![Profile Photo](start.png)
 -->
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a reborn `quant`
 -->
 
-Let's talk about mathematics!
