@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a reborn `quant`
 -->
 
-Let's talk about maths!
+Let's talk about mathematics!
